@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CNN MNIST Notebook"
-date:   2016-06-21
+date:   2016-06-20
 categories: notebook
 ---
 
