@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CNN MNIST Notebook"
+title:  "Deep Dreaming Notebook"
 date:   2016-06-22
 categories: notebook
 ---
