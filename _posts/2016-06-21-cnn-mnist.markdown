@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CNN MNIST Notebook"
+date:   2016-06-21 22:57:11 -0700
+categories: notebook
+---
+
+[CNN MNIST tutorial](https://nbviewer.jupyter.org/github/makslo/jupyter/blob/master/cnn_mnist.ipynb#)
