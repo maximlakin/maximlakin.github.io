@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Combinatorics, Information, Stats"
-date:   2016-06-22
+date:   2016-10-15
 categories: review
 ---
 <h3>Number of states</h3>
